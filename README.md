@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://snehaa94.io)
 <h1 align="center">Hi 👋, I'm Sneha Kashyap</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 - 🌱 I’m currently learning **Fullstack web developer**
